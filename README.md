@@ -1,2 +1,5 @@
 # Basis_Data
-Managemen data
+Nama : Ahmad Gibran
+Nim : D0224330
+Angkatan : 24
+Alamat : Palece
